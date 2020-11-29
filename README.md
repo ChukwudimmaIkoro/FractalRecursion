@@ -1,4 +1,4 @@
-# Fractal Recursion 
+# Fractal Recursion Project
 
 The fractal recursion program allows you to visualize the recursive process used to create numerous shapes.
 
